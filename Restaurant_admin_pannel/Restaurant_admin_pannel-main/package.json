@@ -1,0 +1,19 @@
+{
+  "name": "restaurant_admin_pannel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitinsharma/Restaurant_admin_pannel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignitinsharma/Restaurant_admin_pannel/issues"
+  },
+  "homepage": "https://github.com/ignitinsharma/Restaurant_admin_pannel#readme"
+}
